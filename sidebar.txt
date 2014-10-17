@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tqp:home|Door43 (tqp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tqp|d43-tqp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tqp/archive/master.zip|d43-tqp.zip]]
+
+**Recent Changes**
+{{changes>ns = tqp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tqp|Ethnologue data]]
+
